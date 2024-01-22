@@ -13,3 +13,5 @@ C:\Users\Usuario\desktop\dotnetprojects\TheColombianShop\Infrastructure\obj\Debu
 C:\Users\Usuario\desktop\dotnetprojects\TheColombianShop\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
 C:\Users\Usuario\desktop\dotnetprojects\TheColombianShop\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
 C:\Users\Usuario\desktop\dotnetprojects\TheColombianShop\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\Usuario\desktop\dotnetprojects\TheColombianShop\Infrastructure\bin\Debug\net7.0\Infrastructure.runtimeconfig.json
+C:\Users\Usuario\desktop\dotnetprojects\TheColombianShop\Infrastructure\obj\Debug\net7.0\Infrastructure.genruntimeconfig.cache
