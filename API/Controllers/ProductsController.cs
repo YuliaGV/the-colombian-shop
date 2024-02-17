@@ -37,7 +37,6 @@ namespace API.Controllers
            
             var product = await _repo.GetProductByIdAsync(id);
             
-           
             if (product == null)
             {
                 return NotFound();
@@ -48,6 +47,27 @@ namespace API.Controllers
             
 
         }
+
+
+        [HttpGet("brands")]
+        public async Task<ActionResult<IReadOnlyList<ProductBrand>>> GetProductBrands()
+        {
+            return Ok(await _repo.GetProductBrandsAsync());
+
+          
+        }
+
+
+
+        [HttpGet("types")]
+        public async Task<ActionResult<IReadOnlyList<ProductType>>> GetProductTypes()
+        {
+            return Ok(await _repo.GetProductTypesAsync());
+      
+          
+        }
+
+
         
     }
 }
