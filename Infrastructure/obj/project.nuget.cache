@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfQ08I18YbbuCdqFJPXw44JRZKyxsr3wK8hlypopYMP52XcZ0WbRRaA8O5eboRxpfFLaKQUH+lwe4KF3wdLklg==",
+  "dgSpecHash": "efYYQVPFPm7It3CchTiBgUtw9i1GJOxcwstMFxBFQrBY10q3n6KbAgDzOkBXW3JVWaI+1FAzJt7EbjpdOrdAnA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.14\\microsoft.data.sqlite.core.7.0.14.nupkg.sha512",

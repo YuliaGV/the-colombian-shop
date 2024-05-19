@@ -1287,11 +1287,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1308,8 +1308,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Core\\Core.csproj"
+            "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Core\\Core.csproj"
             }
           }
         }

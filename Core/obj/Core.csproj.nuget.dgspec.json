@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Core\\Core.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Core\\Core.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\desktop\\dotnetprojects\\TheColombianShop\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\DotNETProjects\\TheColombianShop\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
